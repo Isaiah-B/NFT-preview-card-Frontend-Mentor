@@ -13,7 +13,7 @@ Users should be able to:
 ### Links
 
 - [Solution]()
-- [Live Site]()
+- [Live Site](https://nft-card-component-frontend-mentor.netlify.app/)
 
 ### Built with
 

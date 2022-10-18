@@ -1,4 +1,4 @@
-# Interactive Comments Section
+# NFT Preview Card Component
 
 ![](/images/screenshot.png)
 
